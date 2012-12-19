@@ -1,1 +1,5 @@
-fhdk sjfklsjl sf
+1. Budgeting tool
+	a. add/ remove individual expenditures
+	b. add/ remove categories of expenditures (groups)
+		i. safety features! (cannot delete core expenses)
+ 
